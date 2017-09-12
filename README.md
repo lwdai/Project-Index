@@ -11,7 +11,7 @@ Multi-Depot Vehicle Routing Problem
 https://github.com/lwdai/Project-Index/blob/master/Multi-Depot%20Vehicle%20Routing%20Problem.pdf  
 
 Access Pattern of HDFS on Linux Local File System  
-https://github.com/lwdai/Project-Index/blob/master/HDF-Access-Pattern.pdf  
+https://github.com/lwdai/Project-Index/blob/master/HDFS-Access-Pattern.pdf  
 https://github.com/lwdai/Project-Index/blob/master/HDFS-appendix.pdf  
 
 To be updated:  
