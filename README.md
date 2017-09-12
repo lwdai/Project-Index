@@ -14,7 +14,7 @@ Access Pattern of HDFS on Linux Local File System
 https://github.com/lwdai/Project-Index/blob/master/HDFS-Access-Pattern.pdf  
 https://github.com/lwdai/Project-Index/blob/master/HDFS-appendix.pdf  
 
-Network File System 
+Network File System  
 https://github.com/lwdai/Network-File-System  
 
 To be updated:  
