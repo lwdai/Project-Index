@@ -17,11 +17,11 @@ https://github.com/lwdai/Project-Index/blob/master/HDFS-appendix.pdf
 Network File System  
 https://github.com/lwdai/Network-File-System  
 
-To be updated:  
+Sailing  
+https://github.com/lwdai/Sailing  
 
 Order Form for IKEA-Wuxi  
-
-Sailing  
+https://github.com/lwdai/IKEA-WUXI  
 
 Unable to publish due to course policies: 
 
