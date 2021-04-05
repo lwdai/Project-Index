@@ -22,10 +22,3 @@ https://github.com/lwdai/Sailing
 
 Order Form for IKEA-Wuxi  
 https://github.com/lwdai/IKEA-WUXI  
-
-Unable to publish due to course policies: 
-
-OS161 System Kernal Programming  
-Lacs Compiler  
-ChamberCrawler3K  
-Discrete Optimization  
