@@ -7,7 +7,7 @@ This repo contains the links to my projects
  
 [ Multi-Depot Vehicle Routing Problem ](https://github.com/lwdai/Project-Index/blob/master/Multi-Depot%20Vehicle%20Routing%20Problem.pdf)
 
-[Access Pattern of HDFS on Linux Local File System ](https://github.com/lwdai/Project-Index/blob/master/HDFS-Access-Pattern.pdf).  [Appendix](https://github.com/lwdai/Project-Index/blob/master/HDFS-appendix.pdf)
+[Access Pattern of HDFS on Linux Local File System.  ](https://github.com/lwdai/Project-Index/blob/master/HDFS-Access-Pattern.pdf)  [Appendix](https://github.com/lwdai/Project-Index/blob/master/HDFS-appendix.pdf)
 
 [Network File System](https://github.com/lwdai/Network-File-System)
  
